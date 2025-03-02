@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/MonRouge/Main/Main": "pages/MonRouge/Main/Main.html",
+  "/MonRouge/Info/Info": "pages/MonRouge/Info/Info.html",
+  "/MonRouge/Order/Order": "pages/MonRouge/Order/Order.html",
+  "/MonRouge/Order/Love/Love": "pages/MonRouge/Order/Love/Love.html",
+  "/MonRouge/Others/Card/Card": "pages/MonRouge/Others/Card/Card.html",
+  "/MonRouge/Path/Path": "pages/MonRouge/Path/Path.html",
+  "/MonRouge/Others/Others": "pages/MonRouge/Others/Others.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
